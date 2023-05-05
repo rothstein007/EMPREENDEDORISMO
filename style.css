@@ -1,0 +1,21 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+.cabeçalho
+{
+    background-color: #383D58;
+    color: white;
+    display: flex;
+justify-content: space-around;
+padding: 24px 0:0%
+} 
+.cabeçalho-imagem
+{
+    width: 20%
+}
+.cabeçalho-lista-item
+{
+    escola{
+}
